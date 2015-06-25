@@ -239,3 +239,122 @@ Version: '5.6.21'  socket: ''  port: 3306  MySQL Community Server (GPL)
 InnoDB: The error means that another program is using InnoDB's files.
 InnoDB: This might be a backup or antivirus software or another instance
 InnoDB: of MySQL. Please close it to get rid of this error.
+2015-06-21 18:24:52 22068 [Note] Plugin 'FEDERATED' is disabled.
+2015-06-21 18:24:52 54a0 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2015-06-21 18:24:52 22068 [Note] InnoDB: The InnoDB memory heap is disabled
+2015-06-21 18:24:52 22068 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2015-06-21 18:24:52 22068 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2015-06-21 18:24:52 22068 [Note] InnoDB: Not using CPU crc32 instructions
+2015-06-21 18:24:52 22068 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2015-06-21 18:24:52 22068 [Note] InnoDB: Completed initialization of buffer pool
+2015-06-21 18:24:53 22068 [Note] InnoDB: Highest supported file format is Barracuda.
+2015-06-21 18:24:53 22068 [Note] InnoDB: The log sequence numbers 1665234 and 1665234 in ibdata files do not match the log sequence number 3256468 in the ib_logfiles!
+2015-06-21 18:24:53 22068 [Note] InnoDB: Database was not shutdown normally!
+2015-06-21 18:24:53 22068 [Note] InnoDB: Starting crash recovery.
+2015-06-21 18:24:53 22068 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2015-06-21 18:24:53 22068 [Note] InnoDB: Restoring possible half-written data pages 
+2015-06-21 18:24:53 22068 [Note] InnoDB: from the doublewrite buffer...
+2015-06-21 18:25:10 22068 [Note] InnoDB: 128 rollback segment(s) are active.
+2015-06-21 18:25:10 22068 [Note] InnoDB: Waiting for purge to start
+2015-06-21 18:25:10 4fc8  InnoDB: Warning: table 'restaurante_universitario/alimento'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-21 18:25:10 4fc8  InnoDB: Warning: table 'restaurante_universitario/descreve'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-21 18:25:10 4fc8  InnoDB: Warning: table 'restaurante_universitario/serve'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-21 18:25:10 4fc8  InnoDB: Warning: table 'restaurante_universitario/definicoes'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-21 18:25:10 22068 [Note] InnoDB: 5.6.14 started; log sequence number 3256468
+2015-06-21 18:25:10 22068 [Note] Server hostname (bind-address): '*'; port: 3306
+2015-06-21 18:25:10 22068 [Note] IPv6 is available.
+2015-06-21 18:25:10 22068 [Note]   - '::' resolves to '::';
+2015-06-21 18:25:10 22068 [Note] Server socket created on IP: '::'.
+2015-06-21 18:25:10 22068 [Note] Event Scheduler: Loaded 0 events
+2015-06-21 18:25:10 22068 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.6.14'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2015-06-21 18:27:12 5718  InnoDB: Warning: table 'restaurante_universitario/usuarios'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-21 18:27:53 5718  InnoDB: Warning: table 'restaurante_universitario/dia_da_semana'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-21 20:12:15 20660 [Note] Plugin 'FEDERATED' is disabled.
+2015-06-21 20:12:15 494c InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2015-06-21 20:12:15 20660 [Note] InnoDB: The InnoDB memory heap is disabled
+2015-06-21 20:12:15 20660 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2015-06-21 20:12:15 20660 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2015-06-21 20:12:15 20660 [Note] InnoDB: Not using CPU crc32 instructions
+2015-06-21 20:12:15 20660 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2015-06-21 20:12:15 20660 [Note] InnoDB: Completed initialization of buffer pool
+2015-06-21 20:12:15 20660 [Note] InnoDB: Highest supported file format is Barracuda.
+2015-06-21 20:12:15 20660 [Note] InnoDB: The log sequence numbers 1665234 and 1665234 in ibdata files do not match the log sequence number 3262990 in the ib_logfiles!
+2015-06-21 20:12:15 20660 [Note] InnoDB: Database was not shutdown normally!
+2015-06-21 20:12:15 20660 [Note] InnoDB: Starting crash recovery.
+2015-06-21 20:12:15 20660 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2015-06-21 20:12:15 20660 [Note] InnoDB: Restoring possible half-written data pages 
+2015-06-21 20:12:15 20660 [Note] InnoDB: from the doublewrite buffer...
+2015-06-21 20:12:17 20660 [Note] InnoDB: 128 rollback segment(s) are active.
+2015-06-21 20:12:17 20660 [Note] InnoDB: Waiting for purge to start
+2015-06-21 20:12:17 57e0  InnoDB: Warning: table 'restaurante_universitario/alimento'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-21 20:12:17 20660 [Note] InnoDB: 5.6.14 started; log sequence number 3262990
+2015-06-21 20:12:17 57e0  InnoDB: Warning: table 'restaurante_universitario/descreve'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-21 20:12:17 57e0  InnoDB: Warning: table 'restaurante_universitario/serve'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-21 20:12:17 20660 [Note] Server hostname (bind-address): '*'; port: 3306
+2015-06-21 20:12:17 20660 [Note] IPv6 is available.
+2015-06-21 20:12:17 20660 [Note]   - '::' resolves to '::';
+2015-06-21 20:12:17 20660 [Note] Server socket created on IP: '::'.
+2015-06-21 20:12:17 57e0  InnoDB: Warning: table 'restaurante_universitario/definicoes'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-21 20:12:17 20660 [Note] Event Scheduler: Loaded 0 events
+2015-06-21 20:12:17 20660 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.6.14'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2015-06-21 20:34:55 55b8  InnoDB: Warning: table 'restaurante_universitario/usuarios'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-21 20:51:31 4134  InnoDB: Warning: table 'restaurante_universitario/dia_da_semana'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-24 20:18:45 4732 [Note] Plugin 'FEDERATED' is disabled.
+2015-06-24 20:18:45 294 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2015-06-24 20:18:45 4732 [Note] InnoDB: The InnoDB memory heap is disabled
+2015-06-24 20:18:45 4732 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2015-06-24 20:18:45 4732 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2015-06-24 20:18:45 4732 [Note] InnoDB: Not using CPU crc32 instructions
+2015-06-24 20:18:45 4732 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2015-06-24 20:18:45 4732 [Note] InnoDB: Completed initialization of buffer pool
+2015-06-24 20:18:45 4732 [Note] InnoDB: Highest supported file format is Barracuda.
+2015-06-24 20:18:45 4732 [Note] InnoDB: The log sequence numbers 1665234 and 1665234 in ibdata files do not match the log sequence number 3298575 in the ib_logfiles!
+2015-06-24 20:18:45 4732 [Note] InnoDB: Database was not shutdown normally!
+2015-06-24 20:18:45 4732 [Note] InnoDB: Starting crash recovery.
+2015-06-24 20:18:45 4732 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2015-06-24 20:18:46 4732 [Note] InnoDB: Restoring possible half-written data pages 
+2015-06-24 20:18:46 4732 [Note] InnoDB: from the doublewrite buffer...
+2015-06-24 20:18:46 4732 [Note] InnoDB: 128 rollback segment(s) are active.
+2015-06-24 20:18:47 4732 [Note] InnoDB: Waiting for purge to start
+2015-06-24 20:18:47 1dcc  InnoDB: Warning: table 'restaurante_universitario/descreve'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-24 20:18:47 1dcc  InnoDB: Warning: table 'restaurante_universitario/alimento'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-24 20:18:47 1dcc  InnoDB: Warning: table 'restaurante_universitario/serve'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-24 20:18:47 1dcc  InnoDB: Warning: table 'restaurante_universitario/definicoes'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-24 20:18:47 4732 [Note] InnoDB: 5.6.14 started; log sequence number 3298575
+2015-06-24 20:18:47 4732 [Note] Server hostname (bind-address): '*'; port: 3306
+2015-06-24 20:18:47 4732 [Note] IPv6 is available.
+2015-06-24 20:18:47 4732 [Note]   - '::' resolves to '::';
+2015-06-24 20:18:47 4732 [Note] Server socket created on IP: '::'.
+2015-06-24 20:18:49 4732 [Note] Event Scheduler: Loaded 0 events
+2015-06-24 20:18:49 4732 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.6.14'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2015-06-24 20:18:50 1e00  InnoDB: Warning: table 'restaurante_universitario/usuarios'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-24 20:22:22 1e00  InnoDB: Warning: table 'phpmyadmin/pma_navigationhiding'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-24 20:22:22 1e00  InnoDB: Warning: table 'phpmyadmin/pma_savedsearches'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-24 20:22:23 1e00  InnoDB: Warning: table 'phpmyadmin/pma_usergroups'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-24 20:22:23 1e00  InnoDB: Warning: table 'phpmyadmin/pma_users'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
+2015-06-24 20:22:24 1e00  InnoDB: Warning: table 'restaurante_universitario/dia_da_semana'
+InnoDB: in InnoDB data dictionary has unknown flags 50.
